@@ -27,7 +27,7 @@
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
 **Languages:** Java, Python, C, C++  
-**Other Tools:** Git, Linux, MATLAB, Arduino  
+**Other Tools:** Git, Arduino  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,java,python,c,cpp,git,linux,matlab,arduino" />
