@@ -33,7 +33,7 @@
 
 ```javascript
 const dhruv = {
-    location: "India 🇮🇳",
+    location: "Brampton, Ontario, Canada",
     role: "Frontend Developer",
     workingOn: ["Full Stack Development", "Modern Web Apps", "Open Source"],
     learning: ["AI & ML", "Data Science", "Advanced React Patterns"],
@@ -41,7 +41,7 @@ const dhruv = {
     technologies: {
         frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
         backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "MySQL"],
+        databases: ["MongoDB"],
         tools: ["Git", "Linux", "VS Code"],
         languages: ["JavaScript", "Java", "Python", "C", "C++"]
     },
