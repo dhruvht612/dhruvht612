@@ -67,7 +67,7 @@ const dhruv = {
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,redux,vite,chart.js" />
 </p>
 
 ### Backend Development
@@ -77,22 +77,22 @@ const dhruv = {
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,postman,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,postman,arduino,matlab,Vercel," />
 </p>
 
 ### Learning & Exploring
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,tensorflow,pytorch,docker," />
 </p>
 
 ---
