@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=dhruvht612&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dhruvht612?style=for-the-badge&color=00C7B7&labelColor=1c1917&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/dhruvht612?style=for-the-badge&color=00C7B7&labelColor=1c1917&logo=github" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00C7B7&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhruvht612&style=for-the-badge&logo=github" alt="Repos" />
 </p>
 
 <p align="center">
@@ -29,7 +30,23 @@
 
 ---
 
+## 📑 Table of Contents
+
+| Section | Description |
+|--------|-------------|
+| [👨‍💻 About Me](#-about-me) | Who I am & what I do |
+| [🔭 Currently Working On](#-what-im-currently-working-on) | Active projects & learning |
+| [🛠 Tech Stack](#-tech-stack--tools) | Technologies I use |
+| [📌 Featured Projects](#-featured-projects) | Highlighted work |
+| [📊 GitHub Stats](#-github-statistics) | Contribution & activity |
+| [🌐 Connect](#-connect--collaborate) | Reach out & collaborate |
+| [🎯 Goals](#-goals-for-2025) | What I'm aiming for |
+
+---
+
 ## 👨‍💻 About Me
+
+Hey! I'm **Dhruv** — a frontend developer from **India** 🇮🇳 who loves building fast, accessible, and beautiful web experiences. I'm passionate about the React ecosystem, clean code, and learning something new every day. When I'm not coding, you'll find me exploring AI/ML, contributing to open source, or debugging at 2 AM (it's a lifestyle).
 
 ```javascript
 const dhruv = {
@@ -46,7 +63,8 @@ const dhruv = {
         languages: ["JavaScript", "Java", "Python", "C", "C++"]
     },
     currentFocus: "Building scalable & responsive web applications",
-    funFact: "I debug more than I sleep 😅"
+    funFact: "I debug more than I sleep 😅",
+    availability: "Open to collaborations & new opportunities!"
 };
 ```
 
@@ -97,23 +115,50 @@ const dhruv = {
 
 ---
 
+## 🖥️ Development Setup
+
+| Category | Tools |
+|----------|--------|
+| **Editor** | VS Code |
+| **Version Control** | Git & GitHub |
+| **OS** | Linux / Windows |
+| **Design** | Figma |
+| **API Testing** | Postman |
+| **Runtime** | Node.js |
+
+*Always tweaking my workflow for better productivity.*
+
+---
+
 ## 📌 Featured Projects
 
 ### 🌟 Portfolio Website
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhruvht612&repo=Portfolio&theme=tokyonight&border_color=00C7B7)](https://github.com/dhruvht612/Portfolio)
 
-**Personal portfolio website** showcasing my projects, skills, and experience
-- 🎨 Modern & responsive design
-- ⚡ Built with HTML, CSS, JavaScript
-- 🚀 Live at: [dhruvht612.github.io/Portfolio](https://dhruvht612.github.io/Portfolio/)
+**Personal portfolio website** showcasing my projects, skills, and experience.
+
+| | |
+|---|---|
+| 🎨 | Modern & responsive design |
+| ⚡ | Built with HTML, CSS, JavaScript |
+| 🚀 | [**View Live**](https://dhruvht612.github.io/Portfolio/) |
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+---
 
 ### 📇 Contact Manager
 [![Contact Manager](https://github-readme-stats.vercel.app/api/pin/?username=dhruvht612&repo=contact-manager&theme=tokyonight&border_color=00C7B7)](https://github.com/dhruvht612/contact-manager)
 
-**Contact management application** for organizing and managing contacts
-- ✨ Clean and intuitive UI
-- 💾 Local storage implementation
-- 🔍 Search and filter functionality
+**Contact management application** for organizing and managing contacts.
+
+| | |
+|---|---|
+| ✨ | Clean and intuitive UI |
+| 💾 | Local storage implementation |
+| 🔍 | Search and filter functionality |
+
+`JavaScript` `HTML` `CSS` `Local Storage`
 
 <details>
 <summary>📦 More Projects</summary>
@@ -175,32 +220,21 @@ const dhruv = {
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://twitter.com/thakardhruv612" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/dhruv-thakar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:thakardhruvh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/dhruvht_200612" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/thakardhruvh" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://discord.gg/1386010338184400958" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <strong>📫 Open to collaborations, freelance work, and tech discussions!</strong>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/thakardhruv612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thakardhruv612" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/dhruv-thakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-thakar" height="30" width="40" /></a>
-  <a href="https://instagram.com/dhruvht_200612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvht_200612" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/thakardhruvh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thakardhruvh" height="30" width="40" /></a>
-  <a href="https://discord.gg/1386010338184400958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+  <a href="https://dhruvht612.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:thakardhruvh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/dhruv-thakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/thakardhruv612" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/dhruvht_200612" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.hackerrank.com/thakardhruvh" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://discord.gg/1386010338184400958" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <i>Have an idea or want to collaborate? Drop me a message — I'd love to connect!</i>
 </p>
 
 ---
@@ -237,6 +271,12 @@ const dhruv = {
 
 ---
 
+## 📜 Blog & Writing
+
+*Coming soon — technical write-ups, tutorials, and dev experiences.*
+
+---
+
 ## ✨ Quote of the Day
 
 <p align="center">
@@ -247,13 +287,17 @@ const dhruv = {
 
 ## 🎯 Goals for 2025
 
-- [ ] 🚀 Contribute to 10+ open-source projects
-- [ ] 📚 Master Next.js and TypeScript
-- [ ] 🎓 Complete AI/ML specialization
-- [ ] 💼 Build and deploy 5+ production-ready applications
-- [ ] ✍️ Write technical blogs and tutorials
-- [ ] 🌟 Reach 1000+ GitHub followers
-- [ ] 🤝 Mentor aspiring developers
+| Goal | Status |
+|------|--------|
+| 🚀 Contribute to 10+ open-source projects | `In Progress` |
+| 📚 Master Next.js and TypeScript | `Learning` |
+| 🎓 Complete AI/ML specialization | `Planned` |
+| 💼 Build and deploy 5+ production-ready applications | `In Progress` |
+| ✍️ Write technical blogs and tutorials | `Planned` |
+| 🌟 Reach 1000+ GitHub followers | `Ongoing` |
+| 🤝 Mentor aspiring developers | `Open` |
+
+*Always updating — check back for progress!*
 
 ---
 
@@ -297,9 +341,11 @@ const dhruv = {
   <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
 </p>
 
-**⭐ If you like my work, consider giving a star to my repositories!**
+**⭐ If you like my work, consider giving a star to my [repositories](https://github.com/dhruvht612?tab=repositories)!**
 
-*"The only way to do great work is to love what you do."*
+[![Star on GitHub](https://img.shields.io/github/stars/dhruvht612?style=social)](https://github.com/dhruvht612) &nbsp; [![Follow](https://img.shields.io/twitter/follow/thakardhruv612?style=social)](https://twitter.com/thakardhruv612)
+
+*"The only way to do great work is to love what you do."* — *Steve Jobs*
 
 </div>
 
