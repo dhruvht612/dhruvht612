@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=200&section=header&text=Dhruv%20Thakar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:00C7B7,0077B5&height=200&section=header&text=Dhruv%20Thakar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h3 align="center">Frontend Developer | React Enthusiast | Lifelong Learner</h3>
@@ -17,15 +17,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
-</p>
-
-<p align="center">
   <a href="https://dhruvht612.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:thakardhruvh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dhruv-thakar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/thakardhruv612"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/dhruvht_200612"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
 ---
@@ -36,11 +36,11 @@
 |--------|-------------|
 | [👨‍💻 About Me](#-about-me) | Who I am & what I do |
 | [🔭 Currently Working On](#-what-im-currently-working-on) | Active projects & learning |
-| [🛠 Tech Stack](#-tech-stack--tools) | Technologies I use |
+| [🛠 Tech Stack & Proficiency](#-tech-stack--proficiency) | Technologies & skill levels |
 | [📌 Featured Projects](#-featured-projects) | Highlighted work |
 | [📊 GitHub Stats](#-github-statistics) | Contribution & activity |
-| [🌐 Connect](#-connect--collaborate) | Reach out & collaborate |
-| [🎯 Goals](#-goals-for-2025) | What I'm aiming for |
+| [🌐 Connect & Collaborate](#-connect--collaborate) | Reach out & collaborate |
+| [🎯 Goals for 2026](#-goals-for-2026) | What I'm aiming for |
 
 ---
 
@@ -81,34 +81,76 @@ const dhruv = {
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Proficiency
 
-### Frontend Development
+### 💻 Frontend Development
+
+| Technology | Proficiency |
+|-----------|-------------|
+| React | ████████████████████░░ 90% |
+| JavaScript | ███████████████████░░░ 85% |
+| HTML5 | ███████████████████░░░ 95% |
+| CSS3/Tailwind | ██████████████████░░░░ 85% |
+| Redux | ████████████████░░░░░░ 80% |
+| Chart.js | ██████████████░░░░░░░░ 70% |
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,redux,vite,chart.js" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
+
+| Technology | Proficiency |
+|-----------|-------------|
+| Node.js | ████████████████░░░░░░ 75% |
+| Express.js | ██████████████░░░░░░░░ 70% |
+| Firebase | ██████████████░░░░░░░░ 65% |
+| GraphQL | ████████████░░░░░░░░░░ 60% |
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql" />
 </p>
 
-### Databases
+### 🗄️ Databases
+
+| Technology | Proficiency |
+|-----------|-------------|
+| MongoDB | ██████████████░░░░░░░░ 70% |
+| SQLite | ████████████░░░░░░░░░░ 55% |
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
-### Programming Languages
+### 🔧 Programming Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| JavaScript | ███████████████████░░░ 85% |
+| Python | ████████████████░░░░░░ 75% |
+| Java | ██████████████░░░░░░░░ 70% |
+| C/C++ | ████████████░░░░░░░░░░ 60% |
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
 </p>
 
-### Tools & Platforms
+### 🚀 Tools & Platforms
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,postman,arduino,matlab,Vercel," />
 </p>
 
-### Learning & Exploring
+### 🌐 Learning & Exploring
+
+| Technology | Interest Level |
+|-----------|----------------|
+| AWS | 🔥🔥🔥🔥🔥 |
+| Kubernetes | 🔥🔥🔥🔥░ |
+| TensorFlow | 🔥🔥🔥🔥░ |
+| PyTorch | 🔥🔥🔥░░ |
+| Docker | 🔥🔥🔥🔥🔥 |
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,tensorflow,pytorch,docker," />
 </p>
@@ -132,36 +174,40 @@ const dhruv = {
 
 ## 📌 Featured Projects
 
-### 🌟 Portfolio Website
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhruvht612&repo=Portfolio&theme=tokyonight&border_color=00C7B7)](https://github.com/dhruvht612/Portfolio)
-
-**Personal portfolio website** showcasing my projects, skills, and experience.
-
-| | |
-|---|---|
-| 🎨 | Modern & responsive design |
-| ⚡ | Built with HTML, CSS, JavaScript |
-| 🚀 | [**View Live**](https://dhruvht612.github.io/Portfolio/) |
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
----
-
-### 📇 Contact Manager
-[![Contact Manager](https://github-readme-stats.vercel.app/api/pin/?username=dhruvht612&repo=contact-manager&theme=tokyonight&border_color=00C7B7)](https://github.com/dhruvht612/contact-manager)
-
-**Contact management application** for organizing and managing contacts.
-
-| | |
-|---|---|
-| ✨ | Clean and intuitive UI |
-| 💾 | Local storage implementation |
-| 🔍 | Search and filter functionality |
-
-`JavaScript` `HTML` `CSS` `Local Storage`
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌟 Portfolio Website</h3>
+      <p><strong>Personal portfolio</strong> showcasing my projects, skills, and experience.</p>
+      <ul>
+        <li>✨ Modern & responsive design</li>
+        <li>⚡ Built with HTML, CSS, JavaScript</li>
+        <li>🎨 Clean UI/UX principles applied</li>
+      </ul>
+      <p>
+        <a href="https://dhruvht612.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/dhruvht612/Portfolio"><img src="https://img.shields.io/badge/Source%20Code-1c1917?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive Design</code></p>
+    </td>
+    <td width="50%">
+      <h3>📇 Contact Manager</h3>
+      <p><strong>Contact management app</strong> for organizing and managing contacts efficiently.</p>
+      <ul>
+        <li>🔍 Search and filter functionality</li>
+        <li>💾 Local storage implementation</li>
+        <li>✨ Clean and intuitive UI</li>
+      </ul>
+      <p>
+        <a href="https://github.com/dhruvht612/contact-manager"><img src="https://img.shields.io/badge/Source%20Code-1c1917?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Local Storage</code></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary>📦 More Projects</summary>
+<summary>📦 View All Repositories</summary>
 
 <br>
 
@@ -233,10 +279,6 @@ const dhruv = {
   <a href="https://discord.gg/1386010338184400958" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<p align="center">
-  <i>Have an idea or want to collaborate? Drop me a message — I'd love to connect!</i>
-</p>
-
 ---
 
 ## 💬 Let's Talk About
@@ -271,12 +313,6 @@ const dhruv = {
 
 ---
 
-## 📜 Blog & Writing
-
-*Coming soon — technical write-ups, tutorials, and dev experiences.*
-
----
-
 ## ✨ Quote of the Day
 
 <p align="center">
@@ -285,19 +321,31 @@ const dhruv = {
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
-| Goal | Status |
-|------|--------|
-| 🚀 Contribute to 10+ open-source projects | `In Progress` |
-| 📚 Master Next.js and TypeScript | `Learning` |
-| 🎓 Complete AI/ML specialization | `Planned` |
-| 💼 Build and deploy 5+ production-ready applications | `In Progress` |
-| ✍️ Write technical blogs and tutorials | `Planned` |
-| 🌟 Reach 1000+ GitHub followers | `Ongoing` |
-| 🤝 Mentor aspiring developers | `Open` |
+| Goal | Status | Progress |
+|------|--------|----------|
+| 🚀 Contribute to 15+ open-source projects | `In Progress` | ████████░░ 80% |
+| 📚 Master Next.js, TypeScript & React Server Components | `Active` | ███████░░░ 70% |
+| 🎓 Complete AI/ML specialization & build ML projects | `Planned` | ████░░░░░░ 40% |
+| 💼 Deploy 8+ production-ready applications | `In Progress` | ██████░░░░ 60% |
+| ✍️ Publish 10+ technical blogs & tutorials | `Starting Soon` | ██░░░░░░░░ 20% |
+| 🌟 Grow to 500+ GitHub followers | `Ongoing` | ██████░░░░ 60% |
+| 🤝 Mentor 5+ aspiring developers | `Open` | ███░░░░░░░ 30% |
+| 🏗️ Build & launch a SaaS product | `Ideation` | █░░░░░░░░░ 10% |
 
 *Always updating — check back for progress!*
+
+---
+
+## 🌟 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%2019-00C7B7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript%205-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+</p>
 
 ---
 
@@ -351,5 +399,5 @@ const dhruv = {
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:00C7B7,0077B5&height=120&section=footer"/>
 </p>
